@@ -14,10 +14,11 @@ Criar um servidor Web Linux com PHP no Ubuntu Server 18 e rodar o código no lin
 
 ## Resultados esperado
 
+- Script com automação do servidor na linguagem/ferramenta de sua preferência
+  - Este script será executado em uma máquina Ubuntu Server 18 e a unica interação humana será o comando `./setup`
+  - O Script também deve fazer a aplicação rodar sem Bugs.
 - Arquivos de resposta gerado pela aplicação de perguntas 
 - Documentação simples
     - Lista de comando executados
     - Software e versões instaladas 
-- Script com automação do servidor na linguagem/ferramenta de sua preferência
-  - Este script será executado em uma máquina Ubuntu Server 18 e a unica interação humana será o comando `./setup`
 - Enviar todos itens acima para um repositório do GitHub e nos responder o e-mail da prova com o Link
