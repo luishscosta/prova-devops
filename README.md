@@ -4,7 +4,6 @@ Criar um servidor Web Linux com PHP no Ubuntu Server 18 e rodar o código no lin
 
 # Requisitos
 
-- IP Fixo Configurado, sem DHCP
 - Criar Usuário Própio no Linux
   - Usuário root não deve conseguir logar diretamente
 - Acesso via terminal remoto (Shell)
